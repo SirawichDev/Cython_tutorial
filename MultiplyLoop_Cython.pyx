@@ -8,4 +8,4 @@ while x<=loop :
     Cross *=number
     x+=1
 
-print ("Python Result is : ",Cross)
+#print ("Cython Result is : ",Cross)
