@@ -10,6 +10,6 @@ while x<=loop :
     Cross *=number
     x+=1
 
-print ("multiply result is :",Cross)
+
 start_time = time.time()
 
