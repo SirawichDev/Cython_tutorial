@@ -12,4 +12,4 @@ while x<=loop :
 
 print ("multiply result is :",Cross)
 start_time = time.time()
-print("--- %s seconds ---" % (time.time() - start_time))
+
